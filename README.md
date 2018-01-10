@@ -1,2 +1,2 @@
 # ML-coursera
-Machine Learning Course @ www.coursera.org
+Machine Learning Course by Andrew Ng @ www.coursera.org
